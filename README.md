@@ -2,7 +2,7 @@
 React Native | Expo ile oluşturulmuş bir mobil uygulama projesidir. Veritabanında bulunan özlü sözleri karışık bir şekilde kullanıcılara sunar.
 
 # Projenin Amacı
-React Native | Expo'ya yeni başlayan geliştiriciler için Türkçe kayanklı başlangıç düzeyinde bir projedir.
+React Native | Expo'ya yeni başlayan geliştiriciler için Türkçe kaynaklı başlangıç düzeyinde bir projedir.
 
 # Projenin Tanımı
 Veritabanında bulunan özlü sözleri karışık bir şekilde kullanıcılara sunar. Kopyalama ve Paylaşma özellikleriyle de kolaylık sağlamaktadır.
